@@ -1,0 +1,5 @@
+{
+  "sdk_version": "8.5.3.26051504",
+  "command": "translate arabic --empty --no-todo",
+  "source_sha256": "d40f234f040af0aaa7cec6aceed86b79b48c50f6c61716349c3c9d4b809f53f5"
+}

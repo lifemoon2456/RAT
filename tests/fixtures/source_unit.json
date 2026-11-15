@@ -1,0 +1,15 @@
+{
+  "unit_id": "u_fixture_001",
+  "source_relpath": "game/script.rpy",
+  "source_line": 42,
+  "renpy_identifier": "start_1234abcd",
+  "kind": "dialogue",
+  "speaker": "e",
+  "label": "start",
+  "source_text": "Hello, [player.names[0]]! {i}Welcome{/i}.\\nScore: [score:03d]",
+  "old": "Hello, [player.names[0]]! {i}Welcome{/i}.\\nScore: [score:03d]",
+  "source_language": "en",
+  "target_language": "ar",
+  "protected_tokens": ["[player.names[0]]", "{i}", "{/i}", "\\n", "[score:03d]"],
+  "confidence": "unverified"
+}

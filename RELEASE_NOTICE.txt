@@ -1,0 +1,18 @@
+Ren'Py Arabic Translator (RAT) 0.7.0b1 — Beta candidate
+
+This is an experimental build for evaluation. Mock is an echo simulation, not
+Arabic translation. Review and test exported patches on separate game copies.
+No game or Ren'Py SDK is distributed with this application.
+
+The repository does not currently specify an application source-code license.
+This notice does not grant a new license or change the owner's rights.
+The owner must settle distribution terms before public publication.
+
+Bundled dependencies and fonts retain their own licenses and copyrights.
+See THIRD_PARTY_NOTICES.txt and Help / Library licenses. Amiri is included with
+its unmodified SIL Open Font License. Qt/PySide DLLs are dynamically loaded;
+the application sources and reproducible build scripts should accompany any
+distribution that requires them. No third-party license is replaced by this notice.
+
+Uninstalling RAT leaves user projects, settings and system-vault secrets intact.
+Close the game before installing/restoring a patch in its managed copy.
